@@ -1,0 +1,7 @@
+C:\Users\Lev Shevchuk\Desktop\2\bin\Debug\Практика6.exe.config
+C:\Users\Lev Shevchuk\Desktop\2\bin\Debug\Практика6.exe
+C:\Users\Lev Shevchuk\Desktop\2\bin\Debug\Практика6.pdb
+C:\Users\Lev Shevchuk\Desktop\2\obj\Debug\laboratoryWork62.csproj.AssemblyReference.cache
+C:\Users\Lev Shevchuk\Desktop\2\obj\Debug\laboratoryWork62.csproj.CoreCompileInputs.cache
+C:\Users\Lev Shevchuk\Desktop\2\obj\Debug\Практика6.exe
+C:\Users\Lev Shevchuk\Desktop\2\obj\Debug\Практика6.pdb
